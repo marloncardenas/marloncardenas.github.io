@@ -19,8 +19,7 @@ p.a {
     text-decoration: none;
     color: #999;
 }
-p.a:hover {
-    font-family: 'Merriweather', serif;
+a:hover {
     text-decoration: underline;
 }
 h1 {
