@@ -14,12 +14,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+p.a {
     font-family: 'Merriweather', serif;
     text-decoration: none;
     color: #999;
 }
-a:hover {
+p.a:hover {
     font-family: 'Merriweather', serif;
     text-decoration: underline;
 }
@@ -34,7 +34,6 @@ p {
     color: #333;
 }
 footer {
-    font-family: 'Roboto', sans-serif;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
