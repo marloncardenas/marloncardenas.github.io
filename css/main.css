@@ -14,12 +14,20 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 p.a {
     font-family: 'Merriweather', serif;
     text-decoration: none;
     color: #999;
 }
-a:hover {
+p.a:hover {
     text-decoration: underline;
 }
 h1 {
