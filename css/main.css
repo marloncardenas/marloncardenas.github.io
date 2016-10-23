@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto+Condensed|Roboto:500');
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -13,18 +15,21 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: #999;
 }
 a:hover {
+    font-family: 'Roboto', sans-serif;
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Roboto Condensed', sans-serif;
 }
 p {
-    font-size: 1.5em;
+    font-family: 'Merriweather', serif;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
 }
@@ -35,7 +40,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 ul.posts li {
