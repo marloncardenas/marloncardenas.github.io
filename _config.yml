@@ -1,2 +1,3 @@
 name: Marlon Cardenas
 markdown: kramdown
+permalink: /notes/:year/:month/:day/:title
