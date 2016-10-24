@@ -1,18 +1,39 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif|Roboto+Condensed');
 
+
+
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 
-div.navigation nav ul, footer ul {
+header {
+    display: block;
+    height: 100px;
+}
+
+header.navigation nav ul, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.2em;
     padding: 0px;
     list-style: none;
     float: right;
 }
-div.navigation nav ul li, footer ul li {
+
+header h1.logo {
+    display: block;
+    height: 50px;
+    margin: 30px 0 0 0;
+    float: left;
+}
+
+header h1.logo img {
+    display: block;
+    float: left;
+}
+
+header.navigation nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
