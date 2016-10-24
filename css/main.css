@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif|Roboto+Condensed');
 
-
-
-
 body {
-    margin: 60px auto;
+    margin: 0px auto;
     width: 70%;
 }
 
@@ -21,6 +18,10 @@ header ul.navigation, footer ul {
     float: right;
 }
 
+header ul.navigation {
+    margin: 40px -20px 0 0;
+}
+
 header ul.navigation li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -29,7 +30,7 @@ header ul.navigation li, footer ul li {
 header h1.logo {
     display: block;
     height: 50px;
-    margin: 30px 0 0 0;
+    margin: 20px 0 0 0;
     float: left;
 }
 
