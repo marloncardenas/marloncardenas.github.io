@@ -6,8 +6,8 @@
     }
 
     header {
-        display: block;
-        height: 100px;
+        display: inline-block;
+        width: 100%;
     }
 
     header ul.navigation, footer ul {
@@ -31,10 +31,11 @@
         display: block;
         height: 50px;
         margin: 20px 0 0 0;
+        text-align: center;
     }
 
     header h1.logo img {
-        display: block;
+        vertical-align: middle;
     }
 
     a {
