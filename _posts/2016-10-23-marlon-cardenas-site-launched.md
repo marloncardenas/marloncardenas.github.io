@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marlon Cardenas, Cool Dude, Launches Site"
+title: "Cool Dude Launches Site"
 date: 2016-10-23
 ---
 
