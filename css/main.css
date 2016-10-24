@@ -66,9 +66,11 @@ ul.posts li {
 
 div.home {
     align-content: center;
-    width: 70%;
+    width: 100%;
 }
 
 div.home img {
-    width: 100%
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
