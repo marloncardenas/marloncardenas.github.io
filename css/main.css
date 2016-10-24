@@ -21,6 +21,11 @@ header ul.navigation, footer ul {
     float: right;
 }
 
+header ul.navigation li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 header h1.logo {
     display: block;
     height: 50px;
@@ -32,12 +37,6 @@ header h1.logo img {
     display: block;
     float: left;
 }
-
-header.navigation nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
 
 a {
     text-decoration: none;
@@ -87,15 +86,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-div.home {
-    align-content: center;
-    width: 100%;
-}
-
-div.home img {
-    width: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
