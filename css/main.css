@@ -63,3 +63,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+home {
+    align-content: center;
+    width: 70%;
+}
