@@ -42,7 +42,7 @@ p {
     color: #333;
 }
 
-meta-date {
+p.post-date {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.2em;
     text-decoration: none;
