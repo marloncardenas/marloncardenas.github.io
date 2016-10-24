@@ -103,12 +103,12 @@
 @media only screen and (min-width: 600px) {
     body {
         margin: 0px auto;
-        width: 70%;
+        width: 90%;
     }
 
     header {
-        display: block;
-        height: 100px;
+        display: inline-block;
+        width: 100%;
     }
 
     header ul.navigation, footer ul {
@@ -116,11 +116,11 @@
         font-size: 1.2em;
         padding: 0px;
         list-style: none;
-        float: right;
+        float: left;
     }
 
     header ul.navigation {
-        margin: 40px -20px 0 0;
+        margin: 40px -20px 20px 0;
     }
 
     header ul.navigation li, footer ul li {
@@ -133,6 +133,7 @@
         height: 50px;
         margin: 20px 0 0 0;
         float: left;
+        width: 100%;
     }
 
     header h1.logo img {
