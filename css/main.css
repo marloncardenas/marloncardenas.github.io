@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto+Condensed|Roboto:500');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Roboto+Condensed|Roboto:500');
 
 body {
     margin: 60px auto;
@@ -23,7 +23,7 @@ a:hover {
 }
 
 p.a {
-    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
     text-decoration: none;
     color: #999;
 }
@@ -36,7 +36,7 @@ h1 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
     font-size: 1.2em;
     line-height: 1.5em;
     color: #333;
