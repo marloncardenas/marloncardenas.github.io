@@ -64,7 +64,11 @@ ul.posts li {
     list-style: none;
 }
 
-home {
+div.home {
     align-content: center;
     width: 70%;
+}
+
+div.home img {
+    width: 100%
 }
