@@ -29,9 +29,12 @@
 
     header h1.logo {
         display: block;
-        height: 50px;
         margin: 20px 0 0 0;
-        text-align: center;
+        text-indent: -9999px;
+        width: 170px;
+        height: 100px;
+        background: url(/assets/signature_logo.svg);
+        background-size: 170px 100px;
     }
 
     header h1.logo img {
