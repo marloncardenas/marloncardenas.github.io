@@ -4,16 +4,20 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+
+div.navidation nav ul, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.2em;
     padding: 0px;
     list-style: none;
+    float: right;
 }
-nav ul li, footer ul li {
+div.navidation nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+
 a {
     text-decoration: none;
     color: #999;
