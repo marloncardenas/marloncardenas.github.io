@@ -12,16 +12,16 @@ In a graph database management system, the ‘join’ operations are pre-calcula
 
 Here are some of the concepts that I have learned today about Graph DB (Neo4J)
 
-## Labeled Property Graph (LPG)
+###### Labeled Property Graph (LPG)
 This is one of the most generic and versatile of all graph models, and this is the underlying data model of Neo4j.
 
-## Data Constructs
+###### Data Constructs
 * Nodes - these are typically used to store entity information.
 * Relationships - these are used to connect nodes to one another explicitly, providing a way of structuring your entities. These are the equivalent of stored (pre-calculated) ‘join’ operation in RDBMS. They always have a type, a start and end node, and a direction.
 * Properties - name/value pairs that both Nodes and Relationships can contain.
 * Labels - are means  to quickly and efficiently create subgraphs.
 
-## Graph DB specific use cases
+###### Graph DB specific use cases
 * Recommender System
 * Fraud Detection System
 * Social Network
