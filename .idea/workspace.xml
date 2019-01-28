@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca56e00-adef-4fdd-acf4-f99171559a65" name="Default" comment="" />
+    <list default="true" id="aca56e00-adef-4fdd-acf4-f99171559a65" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/toratora/index.html" afterPath="$PROJECT_DIR$/toratora/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/toratora/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+            <state relative-caret-position="98">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/toratora/privacypolicy/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -51,6 +63,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/toratora/privacypolicy/index.html" />
         <option value="$PROJECT_DIR$/toratora/index.html" />
       </list>
     </option>
@@ -117,6 +130,12 @@
               <item name="marloncardenas.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="marloncardenas.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="toratora" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marloncardenas.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marloncardenas.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="toratora" type="462c0819:PsiDirectoryNode" />
+              <item name="privacypolicy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,12 +267,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548666966024</updated>
-      <workItem from="1548666968931" duration="406000" />
+      <workItem from="1548666968931" duration="1160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="406000" />
+    <option name="totallyTimeSpent" value="1160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1136" extended-state="0" />
@@ -309,8 +328,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/toratora/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        <state relative-caret-position="98">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toratora/privacypolicy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding />
         </state>
       </provider>
